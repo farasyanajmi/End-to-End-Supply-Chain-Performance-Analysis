@@ -1,1 +1,101 @@
-
+product_id,product_name,product_category,unit_of_measure,standard_material_cost_per_unit,standard_labor_cost_per_unit,shelf_life_days
+P001,Product 1,Non-Perishable Food,kg,33.34,15.34,439
+P002,Product 2,Electronics,liters,55.54,17.38,199
+P003,Product 3,Non-Perishable Food,liters,77.72,12.15,323
+P004,Product 4,Perishable Food,liters,25.44,1.75,25
+P005,Product 5,Perishable Food,units,57.34,19.4,40
+P006,Product 6,Home Goods,units,73.36,11.21,722
+P007,Product 7,Perishable Food,kg,484.9,9.53,66
+P008,Product 8,Apparel,units,26.09,13.2,638
+P009,Product 9,Perishable Food,liters,63.17,10.18,83
+P010,Product 10,Electronics,liters,26.04,4.18,222
+P011,Product 11,Apparel,liters,77.25,2.93,331
+P012,Product 12,Perishable Food,kg,41.36,19.2,59
+P013,Product 13,Non-Perishable Food,kg,7.93,3.7,332
+P014,Product 14,Non-Perishable Food,kg,195.32,17.96,348
+P015,Product 15,Apparel,kg,18.08,9.95,577
+P016,Product 16,Perishable Food,units,429.43,6.46,48
+P017,Product 17,Home Goods,kg,10.44,1.04,418
+P018,Product 18,Non-Perishable Food,units,19.26,1.38,505
+P019,Product 19,Perishable Food,liters,89.79,6.75,88
+P020,Product 20,Apparel,kg,39.69,5.36,562
+P021,Product 21,Electronics,kg,57.6,2.74,507
+P022,Product 22,Electronics,liters,70.79,9.89,622
+P023,Product 23,Perishable Food,liters,12.85,17.2,50
+P024,Product 24,Electronics,liters,47.4,3.39,682
+P025,Product 25,Apparel,units,47.15,18.22,529
+P026,Product 26,Electronics,liters,55.14,1.33,439
+P027,Product 27,Home Goods,liters,79.29,17.97,340
+P028,Product 28,Home Goods,kg,13.43,13.34,200
+P029,Product 29,Apparel,units,379.26,7.37,199
+P030,Product 30,Apparel,liters,65.25,5.73,341
+P031,Product 31,Non-Perishable Food,kg,21.36,5.98,234
+P032,Product 32,Electronics,liters,38.84,19.53,496
+P033,Product 33,Home Goods,liters,33.21,15.82,313
+P034,Product 34,Perishable Food,units,27.0,2.35,21
+P035,Product 35,Electronics,units,175.53,10.17,293
+P036,Product 36,Electronics,units,75.01,16.61,683
+P037,Product 37,Home Goods,liters,30.64,9.29,183
+P038,Product 38,Electronics,units,56.68,18.37,345
+P039,Product 39,Non-Perishable Food,kg,19.36,18.02,441
+P040,Product 40,Home Goods,kg,212.31,8.03,522
+P041,Product 41,Electronics,kg,19.15,1.81,239
+P042,Product 42,Home Goods,units,90.38,6.02,236
+P043,Product 43,Apparel,kg,34.54,6.19,362
+P044,Product 44,Non-Perishable Food,liters,40.42,13.09,509
+P045,Product 45,Non-Perishable Food,units,24.1,13.56,431
+P046,Product 46,Electronics,units,11.9,12.92,374
+P047,Product 47,Apparel,kg,30.34,17.17,488
+P048,Product 48,Perishable Food,units,50.81,15.47,18
+P049,Product 49,Apparel,units,43.61,14.88,508
+P050,Product 50,Electronics,kg,21.9,17.79,661
+P051,Product 51,Apparel,units,31.18,8.57,688
+P052,Product 52,Electronics,kg,28.67,10.29,380
+P053,Product 53,Electronics,kg,12.94,6.38,545
+P054,Product 54,Home Goods,units,62.47,18.37,624
+P055,Product 55,Perishable Food,kg,87.13,7.66,58
+P056,Product 56,Perishable Food,units,69.7,17.87,14
+P057,Product 57,Non-Perishable Food,kg,68.4,14.55,294
+P058,Product 58,Electronics,kg,35.44,4.8,650
+P059,Product 59,Non-Perishable Food,units,41.18,6.92,583
+P060,Product 60,Home Goods,kg,68.46,3.46,212
+P061,Product 61,Home Goods,kg,34.74,15.76,406
+P062,Product 62,Electronics,liters,29.34,19.47,218
+P063,Product 63,Apparel,units,21.22,14.3,405
+P064,Product 64,Home Goods,liters,75.57,1.84,503
+P065,Product 65,Electronics,units,76.61,8.81,336
+P066,Product 66,Electronics,kg,65.67,7.97,337
+P067,Product 67,Electronics,units,18.46,17.94,658
+P068,Product 68,Home Goods,units,67.85,6.16,617
+P069,Product 69,Non-Perishable Food,units,78.71,7.32,264
+P070,Product 70,Electronics,units,81.76,5.79,649
+P071,Product 71,Perishable Food,kg,7.77,2.59,31
+P072,Product 72,Non-Perishable Food,liters,95.33,15.45,262
+P073,Product 73,Perishable Food,kg,69.61,3.96,77
+P074,Product 74,Apparel,liters,45.89,17.14,596
+P075,Product 75,Non-Perishable Food,kg,50.79,16.87,602
+P076,Product 76,Non-Perishable Food,liters,72.74,11.9,546
+P077,Product 77,Home Goods,liters,67.03,8.78,684
+P078,Product 78,Perishable Food,liters,86.26,4.86,60
+P079,Product 79,Non-Perishable Food,liters,8.48,9.77,682
+P080,Product 80,Electronics,liters,8.88,8.01,660
+P081,Product 81,Electronics,kg,73.54,5.3,634
+P082,Product 82,Electronics,liters,58.55,11.28,498
+P083,Product 83,Home Goods,liters,58.24,9.97,462
+P084,Product 84,Home Goods,kg,72.99,5.2,711
+P085,Product 85,Home Goods,units,90.82,12.77,223
+P086,Product 86,Apparel,units,462.1,17.78,408
+P087,Product 87,Home Goods,kg,92.06,13.4,287
+P088,Product 88,Home Goods,liters,67.56,3.19,719
+P089,Product 89,Non-Perishable Food,units,28.44,10.7,376
+P090,Product 90,Home Goods,liters,41.27,5.75,294
+P091,Product 91,Apparel,units,483.28,19.44,299
+P092,Product 92,Apparel,units,64.71,2.36,665
+P093,Product 93,Apparel,kg,72.01,16.61,337
+P094,Product 94,Non-Perishable Food,units,89.04,11.69,580
+P095,Product 95,Non-Perishable Food,units,45.24,19.13,230
+P096,Product 96,Electronics,kg,84.35,8.95,248
+P097,Product 97,Perishable Food,units,10.24,9.68,48
+P098,Product 98,Perishable Food,kg,187.14,18.24,88
+P099,Product 99,Electronics,units,426.74,1.53,429
+P100,Product 100,Non-Perishable Food,units,57.82,18.5,307
